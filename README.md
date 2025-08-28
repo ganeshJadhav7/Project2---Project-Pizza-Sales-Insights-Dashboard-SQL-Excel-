@@ -30,3 +30,12 @@ Key Features & Analysis :
 4. Best & Worst Performers : 
     - Top 5 Best-Selling Pizzas
     - Bottom 5 Worst-Selling Pizzas
+
+
+Pizza-Sales-Insights :
+    - pizza_sales.csv                 # Raw dataset
+    - PIZZA SALES SQL QUERIES.docx    # SQL queries for analysis
+    - pizza_sales excel file.xlsx     # Processed Excel file
+    - Pizza Sales Analysis.xlsx       # Final Excel dashboard
+    - README.md                       # Project documentation
+
